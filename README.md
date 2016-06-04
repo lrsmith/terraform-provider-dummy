@@ -1,1 +1,1 @@
-# terraform-provider-dummy
+# terraform-provider-icinga2
